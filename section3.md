@@ -26,3 +26,7 @@
 - Select the GitHub user from the list that appears below the text box.
 - Click the "Add" button.
 
+4. Concept of Branching
+
+- Branching is the practice of creating copies of programs or objects in development to work in parallel versions, retaining the original and working on the branch or making different changes to each. Each copy is considered a branch. The branches come from the trunk, also known as the master.
+
