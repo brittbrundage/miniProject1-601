@@ -3,7 +3,7 @@
 - [x] Have a Task List
 - [x] Readme file have all group members names
 - [x] Readme file has an index for Section 1, Section 2, Section 3, and References 
-- [] Readme to include ChangeLog
+- [x] Readme to include ChangeLog
 - [x] Have a References File for References
 - [x] Section 1 Complete
 - [x] Section 2 Complete
@@ -18,5 +18,5 @@
 - [x] Christine 10 Feature Commits
 - [x] Add code tags
 - [x] Add images
-- [ ] Submit Project
+- [x] Submit Project
 
