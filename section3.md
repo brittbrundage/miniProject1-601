@@ -1,4 +1,4 @@
-**How to Work Collaboatively with More Than One Person**
+**How to Work Collaboratively with More Than One Person**
 
 1. Forking vs Cloning
 > _They are similar, they are related, they are not interchangeable._
