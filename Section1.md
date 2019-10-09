@@ -1,4 +1,4 @@
-**Section 1: Christine**
+**Vi Commands**
 <br> 
 Section that explains commands and gives example(s) usage for use Vi to create and edit files on Linux and the basic commands that you need to manage the file system.
 
