@@ -45,3 +45,6 @@ to match that content.
 - **Status:** Displays the state of the working directory and the staging area.
 	- _Example:_ The git status command shows you what∆s been going on git add and git commit, also relevant instructions for staging/unstaging files.
 
+- **Master Branch:** it is a default branch name in Git.
+	- _Example:_ As you start making commits, you∆re given a master branch that points to the last commit you made, thus every time you commit, the master branch pointer moves forward automatically.
+
