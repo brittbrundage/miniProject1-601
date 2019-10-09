@@ -34,4 +34,7 @@
 
 - Branching is used for version control and software management to maintain stability while isolated changes are made to code, Branching facilitates the development of bug fixes, the addition of new capabilities and the integration of new versions after they have been tested in isolation.
 
+6. What is a Merge Conflict
+
+- Merge conflicts happen when you merge branches that have competing commits, and Git needs your help to decide which changes to incorporate in the final merge.
 
