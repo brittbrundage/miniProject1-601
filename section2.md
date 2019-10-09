@@ -42,3 +42,6 @@ to match that content.
                 - Remote remove: Rename the remote names
                 - Remote Show: Provide information about the remote.
 
+- **Status:** Displays the state of the working directory and the staging area.
+	- _Example:_ The git status command shows you what∆s been going on git add and git commit, also relevant instructions for staging/unstaging files.
+
