@@ -8,4 +8,5 @@
 6. https://linuxjourney.com/lesson/print-working-directory-pwd-command#
 7. https://linuxjourney.com/lesson/history-command
 8. https://dev.to/samuyi/how-to-avoid-merge-conflicts-3j8d
+9. https://dev.vividbreeze.com/git-branches-merge-conflicts/
 
