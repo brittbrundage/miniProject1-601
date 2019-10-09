@@ -9,3 +9,7 @@
 
 	- _Example:_ Make a clone of a repository in a new directory at another location. The original repository can be located on the local filesystem or on remote machine.
 
+- **Fork:** It is a copy of a repository that allows you to freely experiment with changes without affecting the original project.
+
+	- _Example:_ A developer create a fork copy in their local system.
+
