@@ -38,3 +38,22 @@
 
 - Merge conflicts happen when you merge branches that have competing commits, and Git needs your help to decide which changes to incorporate in the final merge.
 
+7. How to Avoid Merge Conflicts
+
+- You can compare your branches using the diff tool.
+
+```
+git difftool  branch1 branch2
+```
+
+- You can do a git fetch. A git fetch gives you the chance to do a git diff between your local branch and the remote branch spotting potential conflicts in the process.
+
+```
+git fetch
+```
+- If you like to merge often you can use git rerere. It means reuse recorded resolution. Basically it records a merge conflict that has been resolved and reuses it again when that merge conflicts happens again. This means that we do not waste time solving recurring merge conflicts.
+
+```
+git rerere
+```
+
