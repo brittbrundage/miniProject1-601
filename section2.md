@@ -16,3 +16,6 @@
 - **Branch (git branch):** A git branch command lets you create, list, rename and delete branches in the current repository.
 	- _Example:_ A branch represents an independent line of development.
 
+- **Commit (git commit):** A git commit command is used to save changes to the local repository.
+	- _Example:_ the command git commit -m Êtype your message∆ records or snapshots the file permanently in the version history.
+
