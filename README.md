@@ -12,7 +12,7 @@
 - [Git Commands](/section2.md)
 - [How to Work Collaboratively with More Than One Person](/section3.md)
 - [Task List](/taskList.md)
-- [References](/References.md)
+- [References](/references.md)
 
 #### Changelog
 
@@ -46,6 +46,7 @@
 - Spelling in Title by Brittani
 - TaskList by Brittani 
 - Changelog by Brittani
+- References Link in README.md by Brittani
 
 ##### Updated
 - Completed Tasks by Brittani
