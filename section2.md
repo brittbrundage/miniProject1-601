@@ -22,3 +22,6 @@
 - **Merge (git merge):** Allow to combine multiple sequences of commits into one unified history.
 	- _Example:_ the command git merge (branchName) lets you take the independent lines of development created by git branch and integrate them into a single branch.
 
+- **Checkout:**  It is used to switch from one branch to another.
+	- _Example:_ the git checkout (branchName) command lets you navigate between the branches created.
+
