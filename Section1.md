@@ -16,3 +16,6 @@ Section that explains commands and gives example(s) usage for use Vi to create a
 	
 - **PWD:** command stands for the present working directory. It will show you once pwd is entered which directory you are currently working in. 
 	- _Example:_ Enter pwd on the command line. After you will get the directory you ae currently working in.
+	
+- **MV:** moves files or directories from one location to another. The command would be listed as follows: mv [OPTIONS] source destination
+	- _Example:_ In order to move file 456.txt to directory /test the following command would be entered: mv 456.txt /test
