@@ -31,3 +31,6 @@ Section that explains commands and gives example(s) usage for use Vi to create a
 
 - **File Paths:** in Linux are a human-readable representation of a file or folder’s location on a computer system.
 	- _Example:_ File path - /home/Susan/work/test/
+	
+- **Using the tab key to complete file paths :** will allow you to speed up typing commands, and file paths. 
+	- _Example:_ If we have a long  complex file name beginning with the letter L we would just have to type L and press tab to automatically complete it, however if we have multiple files that begin with L we would just have to type a little bit more of the file.
