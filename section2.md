@@ -19,3 +19,6 @@
 - **Commit (git commit):** A git commit command is used to save changes to the local repository.
 	- _Example:_ the command git commit -m Êtype your message∆ records or snapshots the file permanently in the version history.
 
+- **Merge (git merge):** Allow to combine multiple sequences of commits into one unified history.
+	- _Example:_ the command git merge (branchName) lets you take the independent lines of development created by git branch and integrate them into a single branch.
+
