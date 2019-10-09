@@ -57,3 +57,11 @@ git fetch
 git rerere
 ```
 
+8. How to Resolve Merge Conflicts
+
+- Open Terminal. 
+- Navigate to the local git repository that has the merge conflict. 
+- Generate a list of files that are effected by the merge conflict.
+- Navigate to the parts of the files with the conflicts. 
+- Then determine which changes to keep. 
+
