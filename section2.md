@@ -25,3 +25,10 @@
 - **Checkout:**  It is used to switch from one branch to another.
 	- _Example:_ the git checkout (branchName) command lets you navigate between the branches created.
 
+- **Push:** It is to push commits made on your local branch to a remote repository.
+	- _Examples:_
+                - The git push (variable name) master command sends the committed changes of master branch to your remote repository.
+                - The git push (variable name) branch command sends the branch commits to your remote repository
+                - The git push -all (variable name) command pushes all branches to your remote repository
+                - The git push (variable name) : (branchName) command deletes a branch on your remote repository.
+
