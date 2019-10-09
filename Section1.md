@@ -34,3 +34,6 @@ Section that explains commands and gives example(s) usage for use Vi to create a
 	
 - **Using the tab key to complete file paths :** will allow you to speed up typing commands, and file paths. 
 	- _Example:_ If we have a long  complex file name beginning with the letter L we would just have to type L and press tab to automatically complete it, however if we have multiple files that begin with L we would just have to type a little bit more of the file.
+	
+- **Using up and down arrow for history:** is used to scroll/browse through your recent command history.
+	- _Example:_ To review history scroll using the up and down arrow
