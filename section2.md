@@ -32,3 +32,7 @@
                 - The git push -all (variable name) command pushes all branches to your remote repository
                 - The git push (variable name) : (branchName) command deletes a branch on your remote repository.
 
+- **Pull:** It is used to fetch and download content from a remote repository and immediately update the local repository
+to match that content.
+	- _Example:_ git  pull command update current local branch and update the remote tracking branches for all othe branches.
+
