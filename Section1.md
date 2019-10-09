@@ -19,3 +19,6 @@ Section that explains commands and gives example(s) usage for use Vi to create a
 	
 - **MV:** moves files or directories from one location to another. The command would be listed as follows: mv [OPTIONS] source destination
 	- _Example:_ In order to move file 456.txt to directory /test the following command would be entered: mv 456.txt /test
+	
+- **RM:** removes the files or directories. It would be used to delete those files or directories indicated. This would be done once they are no longer needed. To removed the following command would need to be entered: rm filename
+	- _Example:_ In removing file wrong.txt, the following would be entered rm wrong.txt
