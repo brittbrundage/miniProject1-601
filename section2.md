@@ -36,3 +36,9 @@
 to match that content.
 	- _Example:_ git  pull command update current local branch and update the remote tracking branches for all othe branches.
 
+- **Remote:** it is a common repository that all team members use to exchange their changes.
+	- _Example:_
+                - Remote Add: adds a remote named for the repository at url.
+                - Remote remove: Rename the remote names
+                - Remote Show: Provide information about the remote.
+
