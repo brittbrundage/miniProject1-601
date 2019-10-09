@@ -45,14 +45,15 @@
 - References Links by Brittani
 - Spelling in Title by Brittani
 - TaskList by Brittani 
+- Changelog by Brittani
 
 ##### Updated
 - Completed Tasks by Brittani
 
 
-##### 2019-10-08
+#### 2019-10-08
 
-###### Added 
+##### Added 
 - Git Commands file by Erika 
 - Repository Definition by Erika
 - Clone Definition by Erika
@@ -77,5 +78,5 @@
 - Home Directory Definition by Christine
 - File Path Definition by Christine
 - Tab Key Definition by Christine 
-- Up and down Arrow Definition 
+- Up and down Arrow Definition by Christine 
 
