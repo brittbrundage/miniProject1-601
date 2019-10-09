@@ -30,3 +30,8 @@
 
 - Branching is the practice of creating copies of programs or objects in development to work in parallel versions, retaining the original and working on the branch or making different changes to each. Each copy is considered a branch. The branches come from the trunk, also known as the master.
 
+5. How to Use Branching
+
+- Branching is used for version control and software management to maintain stability while isolated changes are made to code, Branching facilitates the development of bug fixes, the addition of new capabilities and the integration of new versions after they have been tested in isolation.
+
+
