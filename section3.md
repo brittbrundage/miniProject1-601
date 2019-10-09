@@ -38,6 +38,9 @@
 
 - Merge conflicts happen when you merge branches that have competing commits, and Git needs your help to decide which changes to incorporate in the final merge.
 
+![Merge Conflict](/images/mergeConflict.jpg)
+![Merge Conflict from Commit View](/images/mergeConflict2.jpg)
+
 7. How to Avoid Merge Conflicts
 
 - You can compare your branches using the diff tool.
