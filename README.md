@@ -7,7 +7,7 @@
 - Erika Reyes - elr22@njit.edu
 
 **Index**
-- [Update for Project 2](/Added_definitions_project_2.md)
+- [Update for Project 2](/Project_2_definitions.md)
 - [Vi Commands](/Section1.md)
 - [Git Commands](/section2.md)
 - [How to Work Collaboratively with More Than One Person](/section3.md)
