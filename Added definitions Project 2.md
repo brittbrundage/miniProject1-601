@@ -10,4 +10,16 @@ Example layout:
 
 ![Blocks](/images/blocks.png)
 
-Source: https://www.python-course.eu/python3_blocks.php
+**2.	Don’t repeat yourself**
+The Don’t repeat yourself (DRY) principle in python is necessary in avoiding unnecessary repetition with the code. 
+It allows for the code to have a better flow and be easier to read. Another benefit is that if the code needs to be update, 
+it will help in reducing additional work needed. 
+
+Example: 
+Rather than listing the following separately it could be combined into one listing. 
+Original
+print(test1)
+print(test2)
+print(test3)
+	DRY Applied
+	print(test1,test2,test3)
