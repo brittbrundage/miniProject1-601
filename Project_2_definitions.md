@@ -132,3 +132,25 @@ Ran 1 test in 0.000s
 OK
 
 Source: https://www.geeksforgeeks.org/unit-testing-python-unittest/
+
+**11.	Constructor**
+<br>
+A constructor is method which is used for initializing the instance variables during object creation. 
+There are two types of constructors: default constructor and parameterized constructor.
+
+Example:
+class DemoClass:
+    # constructor
+    def __init__(self):
+        # initializing instance variable
+        self.num=100
+
+    # a method
+    def read_number(self):
+        print(self.num)
+
+obj = DemoClass()
+
+obj.read_number()
+
+Source: https://beginnersbook.com/2018/03/python-constructors-default-and-parameterized/
