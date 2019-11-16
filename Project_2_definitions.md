@@ -203,3 +203,10 @@ Example:
 ![Decroator](/Images/decorators_step.png)
  
 Source: https://www.geeksforgeeks.org/decorators-in-python/
+
+**14.	Extend Class**
+<br>
+Extend class iterates over its argument and adding each element to the list and extending the list. The length of the list increases by number of elements in it's argument.
+
+
+
