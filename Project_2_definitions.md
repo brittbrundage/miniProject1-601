@@ -84,3 +84,10 @@ Static method is also a method which is bound to the class and not the object of
 Static variable or class are shared by all objects.
 <br>
 
+**7.	Property/Attribute**
+<br>
+In python, everything is an object. And every object has attributes and methods or functions. Attributes are described 
+by data variables for example like name, age, height etc.
+Properties are special kind of attributes which have getter, setter and delete methods like __get__, __set__ and __delete__ methods.
+
+Source: https://www.tutorialspoint.com/What-is-the-difference-between-attributes-and-properties-in-python
