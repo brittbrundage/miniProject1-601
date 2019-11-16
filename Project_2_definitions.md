@@ -96,3 +96,11 @@ Source: https://www.tutorialspoint.com/What-is-the-difference-between-attributes
 <br>
 A method is a function that takes a class instance as its first parameter. Methods are members of classes.
 For example, list objects have methods called append, insert, remove, sort, and so on.
+
+**9.	Exception**
+<br>
+Exception is an error message within Python that can potential occur when running the program. 
+Example:
+IOError – which occurs if the file cannot be opened.
+
+Source: https://www.pythonforbeginners.com/error-handling/exception-handling-in-python
