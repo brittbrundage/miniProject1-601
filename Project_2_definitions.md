@@ -192,3 +192,14 @@ class SongSerializer:
 
 Source: https://realpython.com/factory-method-python
 <br>
+**13.	Decorator**
+<br>
+Decorators modify the behavior of function or class. Decorators allow to wrap another function in order to extend 
+the behavior of wrapped function, without permanently modifying it.
+
+Example: 
+<br>
+
+![Decroator](/Images/decorators_step.png)
+ 
+Source: https://www.geeksforgeeks.org/decorators-in-python/
