@@ -21,6 +21,7 @@
 ##### Updated
 - README by Brittani
 - README by Christine
+- README by Erika
 
 ##### Added
 - Constructor Definition by Brittani
@@ -36,6 +37,11 @@
 - Class definition added by Christine
 - Object definition added by Christine
 - Static definition added by Christine
+- Factory definition added by Erika
+- Decorator definition added by Erika
+- Extend Class definition added by Erika
+- CSV files definition added by Erika
+- Reading Files definition added by Erika
 
 
 #### 2019-10-09
