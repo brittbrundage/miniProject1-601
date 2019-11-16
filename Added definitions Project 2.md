@@ -78,3 +78,9 @@ Example:
 p1 = MyClass()
 print(p1.x)
 
+**6.	Static**
+<br>
+Static method is also a method which is bound to the class and not the object of the class and cannot access or modify class state.
+Static variable or class are shared by all objects.
+<br>
+
