@@ -23,3 +23,39 @@ print(test2)
 print(test3)
 	DRY Applied
 	print(test1,test2,test3)
+	
+
+**3.	Design patterns from Gang of Four**
+<br>
+The Gang of Four design patterns are a group of 23 patterns that are the foundation for software design. 
+They breakdown into three categories: Creational, Structural, and Behavior.
+
+
+A singleton pattern which is a creational pattern is a class of which only a single instance can exist. 
+
+Example of Singleton pattern: 
+
+class Singleton(type):
+ 
+ def __init__(cls, name, bases, attrs, kwargs):
+        super().__init__(name, bases, attrs)
+        cls._instance = None
+
+    def __call__(cls, args, kwargs):
+        if cls._instance is None:
+            cls._instance = super().__call__(args, kwargs)
+        return cls._instance
+
+class MyClass(metaclass=Singleton):
+    """
+    Example class.
+    """
+    pass
+
+def main():
+    m1 = MyClass()
+    m2 = MyClass()
+    assert m1 is m2
+
+if __name__ == "__main__":
+    main()
