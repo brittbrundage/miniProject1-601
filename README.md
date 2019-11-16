@@ -16,6 +16,19 @@
 
 #### Changelog
 
+#### 2019-11-15
+
+##### Added
+- Images updated by Christine
+- References updated by Christine
+- How python uses the Indentation to control Flow definition added by Christine
+- Don’t repeat yourself definition added by Christine
+- Design patterns from Gang of Four by Christine
+- Class definition added by Christine
+- Object definition added by Christine
+- Statis definition added by Christine
+
+
 #### 2019-10-09
 
 ##### Added
