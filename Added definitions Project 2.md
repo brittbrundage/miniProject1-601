@@ -59,3 +59,12 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
+    **4.	Class**
+<br>
+
+A class allows for a way to create objects. It is consider to be the template for creating objects.
+
+Example:
+class MyClass:
+  x = 5
