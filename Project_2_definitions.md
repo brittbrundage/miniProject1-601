@@ -91,3 +91,8 @@ by data variables for example like name, age, height etc.
 Properties are special kind of attributes which have getter, setter and delete methods like __get__, __set__ and __delete__ methods.
 
 Source: https://www.tutorialspoint.com/What-is-the-difference-between-attributes-and-properties-in-python
+
+**8.	Method**
+<br>
+A method is a function that takes a class instance as its first parameter. Methods are members of classes.
+For example, list objects have methods called append, insert, remove, sort, and so on.
