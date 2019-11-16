@@ -104,3 +104,31 @@ Example:
 IOError – which occurs if the file cannot be opened.
 
 Source: https://www.pythonforbeginners.com/error-handling/exception-handling-in-python
+
+**10.	Unit Test**
+<br>
+Unit testing is the testing of each unit of software. Each test must be able to be run alone. 
+A successful unit test will show “OK” and an unsuccessful test will show either “FAIL” or “ERROR”.
+
+Example: 
+import unittest 
+  
+class SimpleTest(unittest.TestCase): 
+  
+    # Returns True or False.  
+    def test(self):         
+        self.assertTrue(True) 
+  
+if __name__ == '__main__': 
+    unittest.main()
+
+
+
+Example output:
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+
+Source: https://www.geeksforgeeks.org/unit-testing-python-unittest/
