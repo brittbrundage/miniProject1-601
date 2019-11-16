@@ -208,5 +208,17 @@ Source: https://www.geeksforgeeks.org/decorators-in-python/
 <br>
 Extend class iterates over its argument and adding each element to the list and extending the list. The length of the list increases by number of elements in it's argument.
 
+**15.	CSV Files**
+<br>
+
+A Comma Separated Values file (CSV) a plain text data only file. It separates the data values with a delimiter of a 
+comma within the file. 
+Example of file contents:
+column 1 name,column 2 name, column 3 name
+first row data 1,first row data 2,first row data 3
+second row data 1,second row data 2,second row data 3
+
+Source: https://realpython.com/python-csv/
+ 
 
 
