@@ -68,3 +68,13 @@ A class allows for a way to create objects. It is consider to be the template fo
 Example:
 class MyClass:
   x = 5
+  
+  **5.	Object**
+<br>
+
+Python is an object oriented programming language. An object is a collection of data (variables) and methods (functions) 
+that act on those data. 
+Example: 
+p1 = MyClass()
+print(p1.x)
+
