@@ -11,7 +11,7 @@
 9. https://dev.vividbreeze.com/git-branches-merge-conflicts/
 
 
-**References Project 2 **
+**References Project 2**
 
 1.  https://www.python-course.eu/python3_blocks.php
 2. https://www.earthdatascience.org/courses/earth-analytics-bootcamp/loops/intro-dry-code//
